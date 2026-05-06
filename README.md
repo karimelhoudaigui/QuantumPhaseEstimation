@@ -1,6 +1,4 @@
-Voici un `README.md` complet dans le même style :
 
-````markdown
 # Quantum Phase Estimation
 
 <p align="center">
